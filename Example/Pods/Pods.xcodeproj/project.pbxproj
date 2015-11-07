@@ -8,48 +8,47 @@
 
 /* Begin PBXBuildFile section */
 		007398DC400879AF2D8BC76C9E317FA1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
-		0D1FB8A41BEE42EF0094F561 /* JZGlitchLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D1FB8A21BEE42EF0094F561 /* JZGlitchLabel.h */; };
-		0D1FB8A51BEE42EF0094F561 /* JZGlitchLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D1FB8A31BEE42EF0094F561 /* JZGlitchLabel.m */; };
+		02297FE8C071F0536BA8F175BD4CDFDA /* JZGlitchLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E01495FD27E2DA0E91BDF8C30C8C108 /* JZGlitchLabel-dummy.m */; };
+		090895E01E6BAA8CD1482F3794AF7C96 /* JZGlitchLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B9760A14D65A45594A9FC8F10EEE27E /* JZGlitchLabel.m */; };
+		2FC45874704EEC390927FB0017288602 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		3C8A6DF27C09B7BF91CF1ECE90B544A9 /* Pods-JZGlitchLabel_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D786CDECDC15D6A1A6C156B568DA83AC /* Pods-JZGlitchLabel_Tests-dummy.m */; };
 		698047C81E9DC49B48DDB8243345CBEE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
 		6BBE28B12BB5880BA5D530EC24BE3E77 /* Pods-JZGlitchLabel_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5B744D89277050305291166736F99589 /* Pods-JZGlitchLabel_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		75BAC8BC0B5998D287E21EF604620538 /* Pods-JZGlitchLabel_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B384D78264822DFC82706799266498B3 /* Pods-JZGlitchLabel_Example-dummy.m */; };
-		AEBEF0368778F7E1B0E7F39768F1E6BF /* JZGlitchLabel.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8009B1E2D87C0E45C50633E3EDFE642A /* JZGlitchLabel.bundle */; };
-		C27D8BD5FE39D7FADF57CAC4B421D8FE /* JZGlitchLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8FAF88B0CC00E4681E83B7D18072C9B5 /* JZGlitchLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B8625F92CDDB99C4B63014735A77182D /* JZGlitchLabel-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8FAF88B0CC00E4681E83B7D18072C9B5 /* JZGlitchLabel-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C1A77CAD1B3BC95E59BA1AAD684E335E /* JZGlitchLabel.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 8009B1E2D87C0E45C50633E3EDFE642A /* JZGlitchLabel.bundle */; };
 		C8E956FAE9276914AEBB483E5C49D537 /* Pods-JZGlitchLabel_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D7778FE389436E08872011B870603D9C /* Pods-JZGlitchLabel_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		E41680B666C98BE3D261D181C1B9A95A /* JZGlitchLabel-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E01495FD27E2DA0E91BDF8C30C8C108 /* JZGlitchLabel-dummy.m */; };
-		EA928C7E33CD9D0D6E639A76DFD098C7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E4E89230EF59BC255123B67864ACF77 /* Foundation.framework */; };
+		FF579596E6A0A2CEEA4428F6934C4D15 /* JZGlitchLabel.h in Headers */ = {isa = PBXBuildFile; fileRef = A1265A41EF389E4694AE4BD30128BAD7 /* JZGlitchLabel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1DAC35E1B671E51D1241C5EF379D1346 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 849DE4287C3A7013147C30D714BDE96D;
-			remoteInfo = "JZGlitchLabel-JZGlitchLabel";
-		};
 		873B5E2C91724937434B51ACB522C483 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8A3864D3EC2838807CE3B88B53DF5892;
+			remoteGlobalIDString = BC83197B5F4F1AE1BC2BF4321949AE71;
 			remoteInfo = JZGlitchLabel;
 		};
 		A4EF14037A9DC0A6E3FF0BA25627E78B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 8A3864D3EC2838807CE3B88B53DF5892;
+			remoteGlobalIDString = BC83197B5F4F1AE1BC2BF4321949AE71;
 			remoteInfo = JZGlitchLabel;
+		};
+		E5FB9F7E3AF3FEB4028A2776A664E043 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 119556F852D4BDC1478885C2E358542C;
+			remoteInfo = "JZGlitchLabel-JZGlitchLabel";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0D1FB8A21BEE42EF0094F561 /* JZGlitchLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JZGlitchLabel.h; sourceTree = "<group>"; };
-		0D1FB8A31BEE42EF0094F561 /* JZGlitchLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JZGlitchLabel.m; sourceTree = "<group>"; };
 		0D5691BBA08CD799977FF7748C4801FE /* JZGlitchLabel.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = JZGlitchLabel.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		12E4FFF5E8BA7C7DEBB26964520999C2 /* Pods-JZGlitchLabel_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-JZGlitchLabel_Example-frameworks.sh"; sourceTree = "<group>"; };
+		1B9760A14D65A45594A9FC8F10EEE27E /* JZGlitchLabel.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = JZGlitchLabel.m; sourceTree = "<group>"; };
 		1C4B603BB962A7F4A352646109E01A86 /* Pods-JZGlitchLabel_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JZGlitchLabel_Example.release.xcconfig"; sourceTree = "<group>"; };
 		1E01495FD27E2DA0E91BDF8C30C8C108 /* JZGlitchLabel-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "JZGlitchLabel-dummy.m"; sourceTree = "<group>"; };
 		2690C7A2DC4DC1C9CD1ED3AA836AA350 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -68,6 +67,7 @@
 		7F24478AFEC74EA5DAFBF36286677066 /* Pods-JZGlitchLabel_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-JZGlitchLabel_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		8009B1E2D87C0E45C50633E3EDFE642A /* JZGlitchLabel.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JZGlitchLabel.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FAF88B0CC00E4681E83B7D18072C9B5 /* JZGlitchLabel-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JZGlitchLabel-umbrella.h"; sourceTree = "<group>"; };
+		A1265A41EF389E4694AE4BD30128BAD7 /* JZGlitchLabel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = JZGlitchLabel.h; sourceTree = "<group>"; };
 		AE54663F6BC790A87227DD5CDC32CB64 /* JZGlitchLabel-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "JZGlitchLabel-prefix.pch"; sourceTree = "<group>"; };
 		B384D78264822DFC82706799266498B3 /* Pods-JZGlitchLabel_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-JZGlitchLabel_Example-dummy.m"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
@@ -83,18 +83,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2FB3DD658D014D6D97BBEF1C78BD93FC /* Frameworks */ = {
+		79C4830DD1DD537AE68D3417AF45D2B2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EA928C7E33CD9D0D6E639A76DFD098C7 /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		C9586710FE5DB973983A6A588CDF4E03 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				2FC45874704EEC390927FB0017288602 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,6 +104,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				698047C81E9DC49B48DDB8243345CBEE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FD758A0669BCAA29842D73FFC56C2F82 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +138,7 @@
 		14456AE1B2370F44B5CCCCA60A50CAB4 /* JZGlitchLabel */ = {
 			isa = PBXGroup;
 			children = (
-				DDB3F14D67DFFC24CA930ED0F3FA09C1 /* Pod */,
+				D86463BDEADD00C45E835464811C987D /* Pod */,
 				7CB52A5645AC156681393C45074C181D /* Support Files */,
 			);
 			name = JZGlitchLabel;
@@ -171,6 +171,15 @@
 			path = "Target Support Files/Pods-JZGlitchLabel_Tests";
 			sourceTree = "<group>";
 		};
+		59FEE462F8463A6FDBB2CCF06F312EAE /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				A1265A41EF389E4694AE4BD30128BAD7 /* JZGlitchLabel.h */,
+				1B9760A14D65A45594A9FC8F10EEE27E /* JZGlitchLabel.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		681556495DAB634AB376DFE9DC43B4AA /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -180,15 +189,6 @@
 				3B36A08ABD9308AEFE9F547D81838A07 /* Pods_JZGlitchLabel_Tests.framework */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		7717BE6F86B8AB5B60F0193E391B733A /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				0D1FB8A21BEE42EF0094F561 /* JZGlitchLabel.h */,
-				0D1FB8A31BEE42EF0094F561 /* JZGlitchLabel.m */,
-			);
-			path = Classes;
 			sourceTree = "<group>";
 		};
 		7CB52A5645AC156681393C45074C181D /* Support Files */ = {
@@ -241,10 +241,10 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		DDB3F14D67DFFC24CA930ED0F3FA09C1 /* Pod */ = {
+		D86463BDEADD00C45E835464811C987D /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				7717BE6F86B8AB5B60F0193E391B733A /* Classes */,
+				59FEE462F8463A6FDBB2CCF06F312EAE /* Classes */,
 			);
 			path = Pod;
 			sourceTree = "<group>";
@@ -252,20 +252,20 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		33D7C5918ED83F1DA98367B44667ED90 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B8625F92CDDB99C4B63014735A77182D /* JZGlitchLabel-umbrella.h in Headers */,
+				FF579596E6A0A2CEEA4428F6934C4D15 /* JZGlitchLabel.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		6525CAED67CA335C030CCCB69F8C8596 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				C8E956FAE9276914AEBB483E5C49D537 /* Pods-JZGlitchLabel_Tests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		85D730A4F9DE7E0A92BF13A2E7C91216 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0D1FB8A41BEE42EF0094F561 /* JZGlitchLabel.h in Headers */,
-				C27D8BD5FE39D7FADF57CAC4B421D8FE /* JZGlitchLabel-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,13 +280,13 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		849DE4287C3A7013147C30D714BDE96D /* JZGlitchLabel-JZGlitchLabel */ = {
+		119556F852D4BDC1478885C2E358542C /* JZGlitchLabel-JZGlitchLabel */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A91207597F62921157FFD307CC9C866D /* Build configuration list for PBXNativeTarget "JZGlitchLabel-JZGlitchLabel" */;
+			buildConfigurationList = EF028837F8AD97129EECABDE80CAC009 /* Build configuration list for PBXNativeTarget "JZGlitchLabel-JZGlitchLabel" */;
 			buildPhases = (
-				1285C73A92B39B14915DA59CD8563D00 /* Sources */,
-				C9586710FE5DB973983A6A588CDF4E03 /* Frameworks */,
-				65399AB1237F22656AF02B28EDEBC5E2 /* Resources */,
+				F1382A8E64B77A20487E2449657104B4 /* Sources */,
+				FD758A0669BCAA29842D73FFC56C2F82 /* Frameworks */,
+				1C86E7C720DF7C637652CA41EF67D463 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -296,25 +296,6 @@
 			productName = "JZGlitchLabel-JZGlitchLabel";
 			productReference = 8009B1E2D87C0E45C50633E3EDFE642A /* JZGlitchLabel.bundle */;
 			productType = "com.apple.product-type.bundle";
-		};
-		8A3864D3EC2838807CE3B88B53DF5892 /* JZGlitchLabel */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = CF7D2D349F6D04EBBDF095AD3EEB577A /* Build configuration list for PBXNativeTarget "JZGlitchLabel" */;
-			buildPhases = (
-				82174F78C880E0082FD7AAC22C03BD8B /* Sources */,
-				2FB3DD658D014D6D97BBEF1C78BD93FC /* Frameworks */,
-				632BCB49F473C98B53A8CDE1D37F03B8 /* Resources */,
-				85D730A4F9DE7E0A92BF13A2E7C91216 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				499BCE2B034810078A3C519B19FD0DB1 /* PBXTargetDependency */,
-			);
-			name = JZGlitchLabel;
-			productName = JZGlitchLabel;
-			productReference = 0D5691BBA08CD799977FF7748C4801FE /* JZGlitchLabel.framework */;
-			productType = "com.apple.product-type.framework";
 		};
 		94DAD8D02B46C3054F71F10B86A05F0D /* Pods-JZGlitchLabel_Tests */ = {
 			isa = PBXNativeTarget;
@@ -352,6 +333,25 @@
 			productReference = 2C4B580B7D690EB930DDD212873E32CC /* Pods_JZGlitchLabel_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
+		BC83197B5F4F1AE1BC2BF4321949AE71 /* JZGlitchLabel */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0F70EF4F6884C7503D7CC52CBEB3464E /* Build configuration list for PBXNativeTarget "JZGlitchLabel" */;
+			buildPhases = (
+				0D1B2D3E1BDE103B770D57BE7F8D59EA /* Sources */,
+				79C4830DD1DD537AE68D3417AF45D2B2 /* Frameworks */,
+				AA7A6A2AFA6384CB41164F86E4CB9BFE /* Resources */,
+				33D7C5918ED83F1DA98367B44667ED90 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				95B156A7AB6D742FC3289957AC8426AD /* PBXTargetDependency */,
+			);
+			name = JZGlitchLabel;
+			productName = JZGlitchLabel;
+			productReference = 0D5691BBA08CD799977FF7748C4801FE /* JZGlitchLabel.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -373,8 +373,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8A3864D3EC2838807CE3B88B53DF5892 /* JZGlitchLabel */,
-				849DE4287C3A7013147C30D714BDE96D /* JZGlitchLabel-JZGlitchLabel */,
+				BC83197B5F4F1AE1BC2BF4321949AE71 /* JZGlitchLabel */,
+				119556F852D4BDC1478885C2E358542C /* JZGlitchLabel-JZGlitchLabel */,
 				AB80C745CFC826E45A821ED52506FE0D /* Pods-JZGlitchLabel_Example */,
 				94DAD8D02B46C3054F71F10B86A05F0D /* Pods-JZGlitchLabel_Tests */,
 			);
@@ -382,28 +382,30 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		632BCB49F473C98B53A8CDE1D37F03B8 /* Resources */ = {
+		1C86E7C720DF7C637652CA41EF67D463 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEBEF0368778F7E1B0E7F39768F1E6BF /* JZGlitchLabel.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		65399AB1237F22656AF02B28EDEBC5E2 /* Resources */ = {
+		AA7A6A2AFA6384CB41164F86E4CB9BFE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1A77CAD1B3BC95E59BA1AAD684E335E /* JZGlitchLabel.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1285C73A92B39B14915DA59CD8563D00 /* Sources */ = {
+		0D1B2D3E1BDE103B770D57BE7F8D59EA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02297FE8C071F0536BA8F175BD4CDFDA /* JZGlitchLabel-dummy.m in Sources */,
+				090895E01E6BAA8CD1482F3794AF7C96 /* JZGlitchLabel.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,20 +417,18 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82174F78C880E0082FD7AAC22C03BD8B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				0D1FB8A51BEE42EF0094F561 /* JZGlitchLabel.m in Sources */,
-				E41680B666C98BE3D261D181C1B9A95A /* JZGlitchLabel-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		91316A3AB2A76C106F343E638D69E4C5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				75BAC8BC0B5998D287E21EF604620538 /* Pods-JZGlitchLabel_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F1382A8E64B77A20487E2449657104B4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,19 +438,19 @@
 		37F85D30A6EBB2B82A8ED04505F2A209 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = JZGlitchLabel;
-			target = 8A3864D3EC2838807CE3B88B53DF5892 /* JZGlitchLabel */;
+			target = BC83197B5F4F1AE1BC2BF4321949AE71 /* JZGlitchLabel */;
 			targetProxy = 873B5E2C91724937434B51ACB522C483 /* PBXContainerItemProxy */;
 		};
-		499BCE2B034810078A3C519B19FD0DB1 /* PBXTargetDependency */ = {
+		95B156A7AB6D742FC3289957AC8426AD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "JZGlitchLabel-JZGlitchLabel";
-			target = 849DE4287C3A7013147C30D714BDE96D /* JZGlitchLabel-JZGlitchLabel */;
-			targetProxy = 1DAC35E1B671E51D1241C5EF379D1346 /* PBXContainerItemProxy */;
+			target = 119556F852D4BDC1478885C2E358542C /* JZGlitchLabel-JZGlitchLabel */;
+			targetProxy = E5FB9F7E3AF3FEB4028A2776A664E043 /* PBXContainerItemProxy */;
 		};
 		D58447A363ED6EEDBC20CB62EF3DAB3F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = JZGlitchLabel;
-			target = 8A3864D3EC2838807CE3B88B53DF5892 /* JZGlitchLabel */;
+			target = BC83197B5F4F1AE1BC2BF4321949AE71 /* JZGlitchLabel */;
 			targetProxy = A4EF14037A9DC0A6E3FF0BA25627E78B /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -529,7 +529,7 @@
 			};
 			name = Debug;
 		};
-		2C1A0B9D13E8BEB651A20556A39495BA /* Debug */ = {
+		159040228C1696A026DF53C924B8A833 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C5D03533CB4D4A97340CABC84E562038 /* JZGlitchLabel.xcconfig */;
 			buildSettings = {
@@ -541,7 +541,7 @@
 			};
 			name = Debug;
 		};
-		72E88A2EE33611DDFE88B62023E7B59F /* Release */ = {
+		74EA6E6A014349E1C8CC236D241A0F59 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = C5D03533CB4D4A97340CABC84E562038 /* JZGlitchLabel.xcconfig */;
 			buildSettings = {
@@ -582,60 +582,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		7E9AAD578B01AC374E220DA198F0741A /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C5D03533CB4D4A97340CABC84E562038 /* JZGlitchLabel.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/JZGlitchLabel/JZGlitchLabel-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JZGlitchLabel/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JZGlitchLabel/JZGlitchLabel.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = JZGlitchLabel;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		91BA8179B0D9356102214F533C40657D /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C5D03533CB4D4A97340CABC84E562038 /* JZGlitchLabel.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/JZGlitchLabel/JZGlitchLabel-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/JZGlitchLabel/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/JZGlitchLabel/JZGlitchLabel.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = JZGlitchLabel;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		9C0BF10908C899588B128B3333FAD892 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -697,6 +643,60 @@
 			};
 			name = Release;
 		};
+		C73BA56F5B643A5522883811327FB2C3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C5D03533CB4D4A97340CABC84E562038 /* JZGlitchLabel.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/JZGlitchLabel/JZGlitchLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JZGlitchLabel/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JZGlitchLabel/JZGlitchLabel.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = JZGlitchLabel;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		DCE7AD7110B814995910E0C5BA36A6C2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C5D03533CB4D4A97340CABC84E562038 /* JZGlitchLabel.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/JZGlitchLabel/JZGlitchLabel-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/JZGlitchLabel/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/JZGlitchLabel/JZGlitchLabel.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = JZGlitchLabel;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		EE710CA376986275C7E334CEE086DBE6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1C4B603BB962A7F4A352646109E01A86 /* Pods-JZGlitchLabel_Example.release.xcconfig */;
@@ -730,6 +730,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0F70EF4F6884C7503D7CC52CBEB3464E /* Build configuration list for PBXNativeTarget "JZGlitchLabel" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C73BA56F5B643A5522883811327FB2C3 /* Debug */,
+				DCE7AD7110B814995910E0C5BA36A6C2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -757,20 +766,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A91207597F62921157FFD307CC9C866D /* Build configuration list for PBXNativeTarget "JZGlitchLabel-JZGlitchLabel" */ = {
+		EF028837F8AD97129EECABDE80CAC009 /* Build configuration list for PBXNativeTarget "JZGlitchLabel-JZGlitchLabel" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				2C1A0B9D13E8BEB651A20556A39495BA /* Debug */,
-				72E88A2EE33611DDFE88B62023E7B59F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		CF7D2D349F6D04EBBDF095AD3EEB577A /* Build configuration list for PBXNativeTarget "JZGlitchLabel" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				7E9AAD578B01AC374E220DA198F0741A /* Debug */,
-				91BA8179B0D9356102214F533C40657D /* Release */,
+				159040228C1696A026DF53C924B8A833 /* Debug */,
+				74EA6E6A014349E1C8CC236D241A0F59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

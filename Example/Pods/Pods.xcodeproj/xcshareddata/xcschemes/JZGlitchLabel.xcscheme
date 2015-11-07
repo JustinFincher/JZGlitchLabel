@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = 'C4E5659963C4FA2CFBE56628'
+               BlueprintIdentifier = '49191D6A2EFA9074D14EE3D1'
                BlueprintName = 'JZGlitchLabel'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'JZGlitchLabel.framework'>

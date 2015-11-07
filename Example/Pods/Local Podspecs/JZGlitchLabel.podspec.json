@@ -1,15 +1,14 @@
 {
   "name": "JZGlitchLabel",
   "version": "0.1.0",
-  "summary": "A short description of JZGlitchLabel.",
-  "description": "",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/JZGlitchLabel",
+  "summary": "UIView with Glitch effect",
+  "homepage": "https://github.com/JustinFincher/JZGlitchLabel",
   "license": "MIT",
   "authors": {
-    "Fincher Justin": "zhtsu47@me.com"
+    "Fincher Justin (A.k.a JustZht)": "zhtsu47@me.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/JZGlitchLabel.git",
+    "git": "https://github.com/JustinFincher/JZGlitchLabel.git",
     "tag": "0.1.0"
   },
   "platforms": {
