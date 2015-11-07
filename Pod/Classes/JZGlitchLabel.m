@@ -232,7 +232,7 @@
         {
             //数组里面没有对应的字符 随机一个英文／数字
             NSString *vowels = @"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXZY0123456789.,+-/#$%^&*()@!<>                ";
-            NSString *OutputChar = [vowels substringWithRange:NSMakeRange(arc4random_uniform([vowels length]), 1)];
+            NSString *OutputChar = [vowels substringWithRange:NSMakeRange(arc4random_uniform((int)[vowels length]), 1)];
             
             [AimedString appendString:OutputChar];
         }
@@ -259,7 +259,7 @@
         //随机一个英文／数字
         //NSLog(@"not Han ");
         NSString *vowels = @"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXZY0123456789.,+-/#$%^&*()@!<>                ";
-        NSString *tmp = [vowels substringWithRange:NSMakeRange(arc4random_uniform([vowels length]), 1)];
+        NSString *tmp = [vowels substringWithRange:NSMakeRange(arc4random_uniform((int)[vowels length]), 1)];
         return tmp;
     }
 }
