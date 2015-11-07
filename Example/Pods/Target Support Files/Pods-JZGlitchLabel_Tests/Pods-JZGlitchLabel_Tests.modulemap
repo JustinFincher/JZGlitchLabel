@@ -1,0 +1,6 @@
+framework module Pods_JZGlitchLabel_Tests {
+  umbrella header "Pods-JZGlitchLabel_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

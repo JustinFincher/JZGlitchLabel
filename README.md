@@ -1,4 +1,5 @@
 # JZGlitchLabel
+![JZGlitchLabel.jpg](https://github.com/JustinFincher/JZGlitchLabel/raw/master/DemoPic/JZGlitchLabel.jpg)  
 
 [![CI Status](http://img.shields.io/travis/Fincher Justin/JZGlitchLabel.svg?style=flat)](https://travis-ci.org/Fincher Justin/JZGlitchLabel)
 [![Version](https://img.shields.io/cocoapods/v/JZGlitchLabel.svg?style=flat)](http://cocoapods.org/pods/JZGlitchLabel)

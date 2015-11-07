@@ -1,0 +1,14 @@
+PODS:
+  - JZGlitchLabel (0.1.0)
+
+DEPENDENCIES:
+  - JZGlitchLabel (from `../`)
+
+EXTERNAL SOURCES:
+  JZGlitchLabel:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JZGlitchLabel: e08d906c97eb2050e014dd8c9b8635f0903a6193
+
+COCOAPODS: 0.39.0

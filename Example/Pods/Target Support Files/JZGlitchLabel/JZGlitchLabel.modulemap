@@ -1,0 +1,6 @@
+framework module JZGlitchLabel {
+  umbrella header "JZGlitchLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}
