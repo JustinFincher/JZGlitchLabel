@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'JZGlitchLabel_Example', :exclusive => true do
+  pod "JZGlitchLabel", :path => "../"
+end
+
+target 'JZGlitchLabel_Tests', :exclusive => true do
+  pod "JZGlitchLabel", :path => "../"
+
+  
+end
