@@ -8,7 +8,7 @@
 
 #Introduction
 JZGlitchLabel is a .... UIView with Glitch effect you can see in after effect project.
-DemoGif:
+DemoGif:  
 ![JZGlitchLabel.gif](https://github.com/JustinFincher/JZGlitchLabel/raw/master/DemoPic/JZGlitchLabel.gif)  
 
 ## Usage
@@ -41,6 +41,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 **MinFontWeight**: MinFontWeight when in Glitch  
 **MaxFontWeight**: MaxFontWeight when in Glitch  
 **WithGlitchParameter**: CGfloat, detemine the Glitch effect (bigger the cooler)
+
+If there is chinese words (unicode 0x4E00 - 0x9FFF) , glitch will be chinese. else will be english (a-z,0-9).
 
 
 ## Installation
